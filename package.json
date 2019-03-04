@@ -1,6 +1,6 @@
 {
   "name": "HTML_Link",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "GrapesJS Plugin Boilerplate",
   "main": "dist/HTML_Link.js",
   "scripts": {
